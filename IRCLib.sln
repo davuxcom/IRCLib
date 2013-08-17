@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IRCLib", "IRCLib\IRCLib.csproj", "{A9257BCA-E168-416C-89CF-1A1EE0A05A55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IRCTest", "IRCTest\IRCTest.csproj", "{207BA4C6-EFA6-411A-8D3A-0D9402CB11CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9257BCA-E168-416C-89CF-1A1EE0A05A55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9257BCA-E168-416C-89CF-1A1EE0A05A55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9257BCA-E168-416C-89CF-1A1EE0A05A55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9257BCA-E168-416C-89CF-1A1EE0A05A55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{207BA4C6-EFA6-411A-8D3A-0D9402CB11CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{207BA4C6-EFA6-411A-8D3A-0D9402CB11CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{207BA4C6-EFA6-411A-8D3A-0D9402CB11CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{207BA4C6-EFA6-411A-8D3A-0D9402CB11CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
